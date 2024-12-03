@@ -46,5 +46,7 @@ This project explores predictive modeling using two datasets, application_train 
 
 Link: https://tyler-swanson.github.io/Github-Portfolio/
 
+To be deleted later: https://www.youtube.com/watch?v=1aXk2RViq3c
+
 
 
