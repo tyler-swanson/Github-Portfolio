@@ -1,11 +1,9 @@
-# Github-Portfolio
+# Github-Portfolio: Home Credit Default Risk Assignment
 This portfolio showcases my individual data science work, developed through my Master of Business Analytics coursework and hosted on GitHub. It highlights my proficiency in data analysis, visualization, and reproducible workflows, with an emphasis on delivering actionable business insights and practical solutions.
 
 https://tyler-swanson.github.io/Github-Portfolio/
 
-## Home Credit Default Risk Assignment
-
-### Business Problem:
+## Business Problem:
 People often have a difficult time when it comes to getting loans due to a lack of credit history. This
 can lead to financial challenges and even result in loans being placed with unethical lenders. Home
 Credit Group is looking to solve this issue by providing a positive and safe borrowing experience to
@@ -39,6 +37,7 @@ This project will be completed by an individual MABA student over the 2024 Fall 
 project will be finished before January 2025. Important milestones will be Data Understanding,
 Data Preparation, Modeling, Evaluation, and Deployment. 
 
-### EDA
+## [EDA](https://github.com/tyler-swanson/EDA-2/blob/main/EDA%202.Rmd)
+
 
 
