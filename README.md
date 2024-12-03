@@ -38,6 +38,12 @@ project will be finished before January 2025. Important milestones will be Data 
 Data Preparation, Modeling, Evaluation, and Deployment. 
 
 ## [EDA](https://github.com/tyler-swanson/EDA-2/blob/main/EDA%202.Rmd)
+This project focuses on improving Home Credit Group's system for predicting loan repayment by using data analysis and machine learning. The aim is to reduce the rejection of qualified customers and promote ethical lending practices. By conducting exploratory data analysis, we’ll identify important patterns and insights to guide the development of a more accurate prediction model
+*Target Variable:* TARGET - target variable (1 - client with payment difficulties: he/she had late payment more than X days on at least one of the first Y installments of the loan in our sample, 0 - all other cases)
+
+*Guiding Questions:* 1. What is the distribution of the target variable? 2. Which numerical variables have the strongest correlations with the target variable? 3. How do categorical variables relate to the target variable? 4. How much missing data is present, and is there a pattern to it? 5. Are there any significant outliers or anomalies in the data? 6. How does repayment behavior change over time? 7. Which groups of clients are most likely to default? 8. How do external data sources impact repayment predictions? 9. Which features are most important for predicting the target variable?
+
+## [Model Exploration ](https://github.com/tyler-swanson/EDA-2/blob/main/Modeling.Rmd)
 
 
 
