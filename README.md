@@ -1,8 +1,6 @@
 # Github-Portfolio: Home Credit Default Risk Assignment
 This portfolio showcases my individual data science work, developed through my Master of Business Analytics coursework and hosted on GitHub. It highlights my proficiency in data analysis, visualization, and reproducible workflows, with an emphasis on delivering actionable business insights and practical solutions.
 
-https://tyler-swanson.github.io/Github-Portfolio/
-
 ## Business Problem:
 People often have a difficult time when it comes to getting loans due to a lack of credit history. This
 can lead to financial challenges and even result in loans being placed with unethical lenders. Home
@@ -44,6 +42,9 @@ This project focuses on improving Home Credit Group's system for predicting loan
 *Guiding Questions:* 1. What is the distribution of the target variable? 2. Which numerical variables have the strongest correlations with the target variable? 3. How do categorical variables relate to the target variable? 4. How much missing data is present, and is there a pattern to it? 5. Are there any significant outliers or anomalies in the data? 6. How does repayment behavior change over time? 7. Which groups of clients are most likely to default? 8. How do external data sources impact repayment predictions? 9. Which features are most important for predicting the target variable?
 
 ## [Model Exploration ](https://github.com/tyler-swanson/EDA-2/blob/main/Modeling.Rmd)
+This project explores predictive modeling using two datasets, application_train and application_test. Through feature engineering, new variables ratios are created to enhance model performance. The analysis includes training and evaluating multiple models, including as Logistic Regression, Random Forest, and XGBoost, with ROC-AUC used as the primary evaluation metric. The workflow involves ensuring feature consistency between datasets, fine-tuning models, and analyzing their performance. The exploration concludesusing the best-performing model to make predictions and creating a submission file to receive a Kaggle score.  
+
+Link: https://tyler-swanson.github.io/Github-Portfolio/
 
 
 
