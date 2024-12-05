@@ -51,9 +51,5 @@ This project focuses on improving Home Credit Group's system for predicting loan
 ## [Model Exploration ](https://github.com/tyler-swanson/EDA-2/blob/main/Modeling.Rmd)
 This project explores predictive modeling using two datasets, application_train and application_test. Through feature engineering, new variables ratios are created to enhance model performance. The analysis includes training and evaluating multiple models, including as Logistic Regression, Random Forest, and XGBoost, with ROC-AUC used as the primary evaluation metric. The workflow involves ensuring feature consistency between datasets, fine-tuning models, and analyzing their performance. The exploration concludesusing the best-performing model to make predictions and creating a submission file to receive a Kaggle score.  
 
-Link: https://tyler-swanson.github.io/Github-Portfolio/
-
-To be deleted later: https://www.youtube.com/watch?v=1aXk2RViq3c
-
 
 
