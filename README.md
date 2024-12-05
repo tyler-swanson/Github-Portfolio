@@ -51,5 +51,26 @@ This project focuses on improving Home Credit Group's system for predicting loan
 ## [Model Exploration ](https://github.com/tyler-swanson/EDA-2/blob/main/Modeling.Rmd)
 This project explores predictive modeling using two datasets, application_train and application_test. Through feature engineering, new variables ratios are created to enhance model performance. The analysis includes training and evaluating multiple models, including as Logistic Regression, Random Forest, and XGBoost, with ROC-AUC used as the primary evaluation metric. The workflow involves ensuring feature consistency between datasets, fine-tuning models, and analyzing their performance. The exploration concludesusing the best-performing model to make predictions and creating a submission file to receive a Kaggle score.  
 
+# Home Credit Submission Criteria
+### Business Problem and Project Objective
+Home Credit Group faces financial challenges due to loan defaults and struggles to accurately predict who is likely to default. The imbalance in the dataset makes it hard to build models that can correctly identify defaulters without rejecting too many eligible applicants. This creates inefficiencies and limits Home Credit's ability to offer loans to people who lack traditional credit history.
+
+The objective of this project is to create a better predictive model to improve the identification of potential defaulters while minimizing false rejections. Using methods like upsampling, ensemble modeling, and feature engineering, my goal was to improve accuracy and provide actionable insights.
+
+### Business Problem Solution
+The solution involves building a supervised machine learning model to enhance Home Credit Group's ability to predict loan repayment outcomes. By leveraging advanced analytics techniques, the project will improve the accuracy of the current prediction system and mitigate issues caused by imbalanced datasets.
+
+### Personal Contribution
+I contributed to this project by cleaning the dataset, addressing missing values, outliers, and inconsistencies, and analyzing patterns in the data. I engineered features to boost model performance and applied machine learning models, including logistic regression and random forests, optimizing them through grid search.To handle class imbalance, I used upsampling and cost-sensitive algorithms to improve predictions for minority classes. I evaluated models using precision, recall, and F1-scores, ensuring balanced results.
+
+### Business Value of the Solution
+The solution helps Home Credit better identify reliable borrowers, reducing defaults while increasing loan approvals for underserved clients. This improves customer satisfaction, expands revenue, and minimizes financial risks. Additionally, it refines loan terms to support borrower success and strengthen Home Credit's reputation.
+
+### Difficulties Encountered
+The main difficulty was addressing the large class imbalance in the dataset. Defaulters were significantly outnumbered by non-defaulters. This made it difficult to train models that accurately identified defaulters without misclassifying too many reliable borrowers. We used upsampling carefully selected evaluation metrics to overcoming this issue.
+
+### Project Learnings
+During this project, I learned how to address real-world data challenges like missing values, outliers, and class imbalance while building predictive models. I gained experience with feature engineering, applying machine learning models like logistic regression and gradient boosting, and tuning hyperparameters to optimize performance.
+
 
 
