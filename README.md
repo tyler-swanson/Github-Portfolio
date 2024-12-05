@@ -37,9 +37,16 @@ Data Preparation, Modeling, Evaluation, and Deployment.
 
 ## [EDA](https://github.com/tyler-swanson/EDA-2/blob/main/EDA%202.Rmd)
 This project focuses on improving Home Credit Group's system for predicting loan repayment by using data analysis and machine learning. The aim is to reduce the rejection of qualified customers and promote ethical lending practices. By conducting exploratory data analysis, we’ll identify important patterns and insights to guide the development of a more accurate prediction model
+
 *Target Variable:* TARGET - target variable (1 - client with payment difficulties: he/she had late payment more than X days on at least one of the first Y installments of the loan in our sample, 0 - all other cases)
 
+![](https://github.com/tyler-swanson/Github-Portfolio/blob/main/Target%20Variable%20Distribution.png)
+
 *Guiding Questions:* 1. What is the distribution of the target variable? 2. Which numerical variables have the strongest correlations with the target variable? 3. How do categorical variables relate to the target variable? 4. How much missing data is present, and is there a pattern to it? 5. Are there any significant outliers or anomalies in the data? 6. How does repayment behavior change over time? 7. Which groups of clients are most likely to default? 8. How do external data sources impact repayment predictions? 9. Which features are most important for predicting the target variable?
+
+![](https://github.com/tyler-swanson/Github-Portfolio/blob/main/Top%20Predictors%20.jpg)
+
+![](https://github.com/tyler-swanson/Github-Portfolio/blob/main/Screenshot%202024-12-04%20183154.jpg)
 
 ## [Model Exploration ](https://github.com/tyler-swanson/EDA-2/blob/main/Modeling.Rmd)
 This project explores predictive modeling using two datasets, application_train and application_test. Through feature engineering, new variables ratios are created to enhance model performance. The analysis includes training and evaluating multiple models, including as Logistic Regression, Random Forest, and XGBoost, with ROC-AUC used as the primary evaluation metric. The workflow involves ensuring feature consistency between datasets, fine-tuning models, and analyzing their performance. The exploration concludesusing the best-performing model to make predictions and creating a submission file to receive a Kaggle score.  
