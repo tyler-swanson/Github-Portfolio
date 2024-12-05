@@ -54,7 +54,7 @@ This project explores predictive modeling using two datasets, application_train 
 
 
 
-# Home Credit Submission Criteria
+# Home Credit Submission Criteria Summary
 ### Business Problem and Project Objective
 Home Credit Group faces financial challenges due to loan defaults and struggles to accurately predict who is likely to default. The imbalance in the dataset makes it hard to build models that can correctly identify defaulters without rejecting too many eligible applicants. This creates inefficiencies and limits Home Credit's ability to offer loans to people who lack traditional credit history.
 
